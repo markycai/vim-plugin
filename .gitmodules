@@ -1,0 +1,6 @@
+[submodule "bundle/vim-pathogen"]
+	path = bundle/vim-pathogen
+	url = git://github.com/tpope/vim-pathogen.git
+[submodule "bundle/vimerl"]
+	path = bundle/vimerl
+	url = git://github.com/jimenezrick/vimerl.git
