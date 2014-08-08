@@ -47,6 +47,6 @@ map <silent><leader>tl :TlistToggle<cr>
 map <silent><leader>c :CtrlP<cr>
 
 "----------------vimerl-----------------------
-let g:erlangManPath="/Users/markycai/Applications/otp_doc_man_17.1"
+let g:erlangManPath="~/Applications/otp_doc_man_17.1"
 
 
